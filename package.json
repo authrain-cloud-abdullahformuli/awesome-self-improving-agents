@@ -1,0 +1,29 @@
+{
+  "name": "@authrain/awesome-self-improving-agents",
+  "version": "1.0.0",
+  "description": "A curated and continuously evolving resource hub for self-improving modern agentic systems",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/authrain-cloud-abdullahformuli/awesome-self-improving-agents.git"
+  },
+  "keywords": [
+    "awesome-list",
+    "self-improving-agents",
+    "agentic-systems",
+    "foundation-models",
+    "autonomous-agents",
+    "llm-agents",
+    "reinforcement-learning"
+  ],
+  "author": "Abdullah Formuli <authrainmedia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/authrain-cloud-abdullahformuli/awesome-self-improving-agents/issues"
+  },
+  "homepage": "https://github.com/authrain-cloud-abdullahformuli/awesome-self-improving-agents#readme"
+}

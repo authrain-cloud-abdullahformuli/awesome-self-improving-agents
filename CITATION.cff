@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Formuli
+    given-names: Abdullah
+title: "awesome-self-improving-agents: Curated Resource Hub for Self-Improving Modern Agentic Systems"
+version: 1.0.0
+date-released: 2026-11-13
+url: "https://github.com/authrain-cloud-abdullahformuli/awesome-self-improving-agents"
+license: MIT
